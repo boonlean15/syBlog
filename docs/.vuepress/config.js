@@ -1,6 +1,6 @@
 module.exports = {
-    title: '知识库',
-    description: '十一家的林先生',
+    title: '十一的知识库',
+    description: '林先生家的十一',
     base: '/syBlog/',
     themeConfig: {
         nav: [
